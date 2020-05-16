@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>837599404484-47mr5it6jtmngtj137c9j9ueug32is6j.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.837599404484-47mr5it6jtmngtj137c9j9ueug32is6j</string>
+	<key>API_KEY</key>
+	<string>AIzaSyD-Upks4o2zT2YFcssO80Ie_4o_xmXYBvg</string>
+	<key>GCM_SENDER_ID</key>
+	<string>837599404484</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.votingapp</string>
+	<key>PROJECT_ID</key>
+	<string>e-vote-c95a7</string>
+	<key>STORAGE_BUCKET</key>
+	<string>e-vote-c95a7.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:837599404484:ios:5370f5f2f3230d811b4491</string>
+	<key>DATABASE_URL</key>
+	<string>https://e-vote-c95a7.firebaseio.com</string>
+</dict>
+</plist>
